@@ -1,0 +1,10 @@
+{
+  "Headers": {
+    "Iframe": "An iFrame containing the TinyMCE WYSIWYG Editor",
+    "DragAndDrop": "Drag and Drop"
+  },
+  "IframePage": {
+    "InputText": "Text inside Iframe",
+    "formatType": "Underline"
+  }
+}

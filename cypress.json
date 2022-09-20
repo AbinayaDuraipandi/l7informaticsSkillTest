@@ -1,0 +1,18 @@
+{
+    "env": {
+        "url": "http://the-internet.herokuapp.com/"
+    },
+    "defaultCommandTimeout": 10000,
+    "reporter": "mochawesome",
+    "reporterOptions": {
+        "reportDir": "cypress/reports/mocha",
+        "reportFilename": "report",
+        "overwrite": true,
+        "html": true,
+        "json": true,
+        "charts": true
+    },
+    "video": true,
+    "retries":1
+
+}

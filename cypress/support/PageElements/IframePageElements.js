@@ -1,0 +1,7 @@
+export const IFRAME = '#mce_0_ifr'
+export const TEXTBOX = '#tinymce'
+export const FORMAT = '.tox-mbtn__select-label'
+export const FORMAT_TYPE = '.tox-collection__item-label'
+export const FORMAT_UNDERLINE = '#tinymce [style*=underline]'
+export const FORMAT_BOLD = '#tinymce strong'
+export const FORMAT_ITALIC = '#tinymce em'

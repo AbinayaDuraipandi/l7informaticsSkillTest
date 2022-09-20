@@ -1,0 +1,21 @@
+{
+  "name": "cypresstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "HerokuappTests": "cypress run --spec cypress/integration/HerokuApp.js",
+    "TwoDimensionalArrayProgramFile": "node ./cypress/integration/TwoDimensionalArray.js"
+  },
+  "keywords": [],
+  "author": "Abinaya D",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.0.0",
+    "mochawesome": "^7.1.3",
+    "mochawesome-merge": "^4.2.1"
+  }
+}
